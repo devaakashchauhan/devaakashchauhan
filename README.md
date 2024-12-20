@@ -54,7 +54,7 @@ Hello! I'm Akash, a passionate Full Stack Developer with a knack for creating ef
 </p>
 
 ---
-
+<!--
 ### 🌟 Featured Projects
 
 <div align="center">
@@ -65,6 +65,7 @@ Hello! I'm Akash, a passionate Full Stack Developer with a knack for creating ef
 </div>
 
 ---
+-->
 
 ### 📫 Connect with me
 
