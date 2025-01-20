@@ -25,15 +25,14 @@ Hello! I'm Akash, a passionate Full Stack Developer with a knack for creating ef
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack Overview  
 
 <div align="center">
 
-|                                                                 Frontend                                                                 |                                                                  Backend                                                                  |                                                                Database                                                                |                                                                  DevOps                                                                  |                                                                         Tools                                                                          |
-| :--------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: |
-|      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />       |         <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />          |    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />     |       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />       |                  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />                   |
-| <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> | <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" /> | <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> |        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />        | <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> |
-<!-- |           <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />           |         <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />          |       <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />        | <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /> |                 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />                 | -->
+| **Frontend** | **Backend** | **Database** | **DevOps** | **Tools** |
+|:-----------:|:----------:|:-----------:|:---------:|:--------:|
+| <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" height="30px"/> | <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" height="30px"/> | <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" height="30px"/> | <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" height="30px"/> | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" height="30px"/> |
+| <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" height="30px"/> | <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" height="30px"/> | <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" height="30px"/> | <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" height="30px"/> | <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" height="30px"/> |
 
 </div>
 
@@ -46,21 +45,32 @@ Hello! I'm Akash, a passionate Full Stack Developer with a knack for creating ef
 </div>
 
 ---
+### 🧑‍💻 Most Used Languages
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devaakashchauhan&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaakashchauhan&layout=compact&theme=radical" alt="GitHub Stats" />
+</div>
 
 ---
+### 🔥 Current Streak
+
+<div align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=devaakashchauhan&theme=radical&exclude_days=Sun"/>
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=devaakashchauhan&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies" /> </div>
+---
+
 
 ### 🌟 Featured Projects
 
 <div align="center">
 
-[![E-Commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=devaakashchauhan&repo=ecommerce-platform&theme=radical)](https://github.com/devaakashchauhan/ecommerce-platform)
-[![Task Management App](https://github-readme-stats.vercel.app/api/pin/?username=devaakashchauhan&repo=task-management-app&theme=radical)](https://github.com/devaakashchauhan/task-management-app)
+[![College-EMS](https://github-readme-stats.vercel.app/api/pin/?username=devaakashchauhan&repo=College-EMS&theme=radical)](https://github.com/devaakashchauhan/College-EMS)
+[![LMS](https://github-readme-stats.vercel.app/api/pin/?username=devaakashchauhan&repo=LMS&theme=radical)](https://github.com/devaakashchauhan/LMS)
 
 </div>
 
